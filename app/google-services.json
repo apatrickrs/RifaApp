@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026195732839",
+    "firebase_url": "https://srta-rifa.firebaseio.com",
+    "project_id": "srta-rifa",
+    "storage_bucket": "srta-rifa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026195732839:android:4439fb64b66d2445f797c2",
+        "android_client_info": {
+          "package_name": "com.rifa.mrrifa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026195732839-s2g10sc7dgi45a0bq0su6rfg58ko03dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rifa.mrrifa",
+            "certificate_hash": "fe4db32c39d02d6bdb822c2c8238a81d1ff736e3"
+          }
+        },
+        {
+          "client_id": "1026195732839-75o8at3adkr2mqasme9puqanclr1p9tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwqjxXU1eNHTOoJf-q_xIH9gFLP8NiSLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026195732839-75o8at3adkr2mqasme9puqanclr1p9tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
